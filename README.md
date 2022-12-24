@@ -39,19 +39,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ### Admin Login Screen
-[![Admin Login][admin login-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png)
+[![Admin Login][admin login-screenshot]](https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/1Admin%20login.png)
 
 ### Add Products/View Products
-[![Admin Dashboard][login-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
+[![Admin Dashboard][add/view-product-screenshot]](https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/2_Add_Product-View_Product.png)
 
 ### View Customers/Delete Customers
-[![Admin Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png)
+[![Admin Dashboard][view/delete-customer-screenshot]](https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/3-view-delete-customer.png)
 
 ### Customer buying Products
-[![Customer Dashboard][registration-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/view%20patients.png)
+[![Customer Dashboard][customer-buy-products-screenshot]](https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/4-customer-buy-product.png)
 
 ### Customer Bill
-[![Customer Dashboard][busBooking-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png)
+[![Customer Dashboard][customer-bill-screenshot]](https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/5-customer-bill.png)
 
 
 
@@ -84,8 +84,8 @@ you need to install following softwares or libraries.
 
 1. Clone the repo
 
-   ```ap
-   git clone https://github.com/Ashutosh-Pawar/DoctorAppointmentBooking.git
+   ```sc
+   git clone https://github.com/samiksha-chavan/Store-Management.git
    ```
 2. Install Necessary software
 
@@ -118,7 +118,7 @@ Don't forget to give the project a star! Thanks again!
 
 Samiksha Chavan - chavansamiksha610@gmail.com
 
-Project Link: [https://github.com/Ashutosh-Pawar/DoctorAppointmentBooking.git](https://github.com/Ashutosh-Pawar/DoctorAppointmentBooking.git)
+Project Link: [https://github.com/samiksha-chavan/Store-Management.git](https://github.com/samiksha-chavan/Store-Management.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,9 +126,9 @@ Project Link: [https://github.com/Ashutosh-Pawar/DoctorAppointmentBooking.git](h
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [JAVA]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx20PHLxKaDlz35mW_neWjCUoco_IqBYKRlNy6tM&s
-[admin-login-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png
-[admin-dashboard-screenshot]:https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png
-[admin-dashboard-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png
-[admin-dashboard-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/view%20patients.png
-[patient-dashboard-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png
+[admin-login-screenshot]: https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/1Admin%20login.png
+[admin-dashboard-screenshot]: https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/2_Add_Product-View_Product.png
+[admin-dashboard-screenshot]: https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/3-view-delete-customer.png
+[admin-dashboard-screenshot]: https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/4-customer-buy-product.png
+[patient-dashboard-screenshot]: https://raw.githubusercontent.com/samiksha-chavan/Store-Management/main/Store%20images/5-customer-bill.png
 
